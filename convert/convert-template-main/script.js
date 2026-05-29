@@ -20,7 +20,7 @@ amount.addEventListener("input", () => {
 })
 
 // Capturando o evento de submit (enviar) do formulário.
-form.onsubmit = () => {
+form.onsubmit = (event) => {
    event.preventDefault()
 
    switch (currency.value) {
