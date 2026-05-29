@@ -2,6 +2,8 @@
 
 Este é um projeto prático desenvolvido como parte dos estudos iniciais de JavaScript na plataforma **Rocketseat**. O objetivo principal foi aplicar conceitos fundamentais da linguagem para criar uma ferramenta funcional de conversão de moedas (Dólar, Euro e Libra) para Real Brasileiro (BRL).
 
+link de acesso: https://murilobiscaro.github.io/Conversor_Moedas/
+
 ## 🚀 Tecnologias Utilizadas
 
 - **JavaScript (ES6+):** Lógica de conversão, manipulação de DOM e tratamento de eventos.
